@@ -539,6 +539,16 @@ nav{
       padding: 15px;
       text-align: center;
     }
+    .product-img{
+      object-fit: cover;
+      width: 95%;
+    }
+    .product-head{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+    }
   
     /* Footer */
     .email {
