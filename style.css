@@ -514,7 +514,7 @@ nav{
     .watch, .bag, .shoes {
       width: 100%; 
       justify-content: center; 
-      gap: 180px;
+      gap: 140px;
       height: auto;
       padding: 15px;
     }
