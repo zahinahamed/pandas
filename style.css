@@ -81,7 +81,7 @@ nav{
 }
 .hero-tv{
     padding: 20px;
-    width: calc(50%-20px);
+    width: calc(50% - 20px);
 }
 
 /* Categories part */
@@ -484,7 +484,7 @@ nav{
   
     /* Hero Section */
     .hero {
-      flex-direction: column; 
+      flex-direction: column-reverse; 
       align-items: center;
       text-align: center;
       padding: 10px;
